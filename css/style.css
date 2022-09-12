@@ -60,10 +60,9 @@
   width: 100vw;
   padding-left: 2rem;
   padding-bottom: 2rem;
-  background-color: whitesmoke;
   height: 0vh;
   margin-top: 10px;
-  background-color: rgb(240, 240, 240);
+  background-color: white;
   transition: all 0.15s;
 }
 .hvr_1:hover .hvr_1_list {
